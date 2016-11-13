@@ -1,0 +1,3 @@
+su
+
+echo "deb http://ftp.debian.org/debian/ jessie-updates main" >> 
